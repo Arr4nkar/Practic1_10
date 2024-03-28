@@ -13,6 +13,7 @@ import java.util.Scanner;
 public class Dz_1_10 {
 
      public static void main(String[] args) {
+        System.out.print("Нехаев Глеб РИБО-01-22 вариант 2 ");
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Введите путь к каталогу для поиска файлов: ");
